@@ -1,0 +1,5 @@
+* extract_notes.pkg
+v 3
+d extract_notes
+d Command to extract all notes assoicated with a dataset, and save it as a CSV file
+f extract_notes.ado
