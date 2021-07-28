@@ -2,5 +2,5 @@
 v 3
 d extract_notes
 d Command to extract all notes assoicated with a dataset, and save it as a CSV file
-f https://raw.githubusercontent.com/james-hedley/extract_notes/main/extract_notes.ado
-f https://raw.githubusercontent.com/james-hedley/extract_notes/main/extract_notes.sthlp
+f extract_notes.ado
+f extract_notes.sthlp
