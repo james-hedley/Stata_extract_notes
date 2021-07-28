@@ -1,4 +1,4 @@
 * stata.toc
 v 3
 d Command to extract all notes assoicated with a dataset, and save it as a CSV file
-p extract_notes
+p extract_notes Save Stata notes as a CSV file
