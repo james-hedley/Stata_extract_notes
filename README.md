@@ -8,5 +8,7 @@ There are three ways to install this package:
   2. Download the .ado and .sthlp files, and save them in your personal ADO folder. You can find where your personal ADO folder is located by typing -sysdir- in Stata
  
   3. Manually install within Stata (if -net install- fails). To install the command and then view the help file type:
+    
     do "https://raw.githubusercontent.com/james-hedley/extract_notes/main/extract_notes.do"
+    
     type "https://raw.githubusercontent.com/james-hedley/extract_notes/main/extract_notes.sthlp"
