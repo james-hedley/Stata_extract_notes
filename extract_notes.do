@@ -71,21 +71,5 @@ program define extract_notes, rclass
 end
 
 
-/*
-cd "\\storage.mcri.edu.au\BIS\Summary files"
-do "bis_directories.do"
-global dataloc "${bis}\Archive Datasets\1. Summary of data available\Measures Availability"
-cd "${dataloc}"
-use "bis_measures_availability", clear
-
-notes _dta : datset note 1
-notes _dta : datset note 2
-
-gen tempvar=., after(inception_cohort_yn)
-
-
-extract_notes "test_notes_file", replace
-
-
 	
 	
